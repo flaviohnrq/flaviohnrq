@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @flaviohnrq
-Eu trabalhei com informatica na decada de 2000 (primeiro na manutenção de computadores, depois como Programador)
+Eu trabalhei com informatica na decada de 2000 
+  -Manutenção de computadores (2001-2003)
+  -Programador(2006-2008) Majoritariamente webdev com PHP e base de dados e também Javascript
 ...fiquei ausente da área na decada de 2010 e agora estou retornando meus estudos.
 
 - 👀 I’m interested in ...
